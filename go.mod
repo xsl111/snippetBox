@@ -1,4 +1,4 @@
-module github.com/xsl/snippetBox
+module github.com/xsl111/snippetBox
 
 go 1.23.1
 

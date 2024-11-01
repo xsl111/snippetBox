@@ -6,8 +6,8 @@ import (
 	"text/template"
 	"time"
 
-	"github.com/xsl/snippetBox/internal/models"
-	"github.com/xsl/snippetBox/ui"
+	"github.com/xsl111/snippetBox/internal/models"
+	"github.com/xsl111/snippetBox/ui"
 )
 
 type templateData struct {
